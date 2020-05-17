@@ -9,7 +9,7 @@ We analyzed retail sales data from an Australian fruit and vegetable retailer an
 
 Jupyter Notebooks - Python 3
 
-##Files
+## Files
 
 ExogHolidays.csv
 	
