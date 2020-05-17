@@ -31,11 +31,11 @@ Retail Sales Data Modelling Summary.*
 
 	Summary of the project.
 	
-/eda
+/eda/
 
 	Exploratory Data Analysis Output Graphs.
 
-/dataCleaning
+/dataCleaning/
  
 	Script for cleaning data for modelling.
 
@@ -43,10 +43,10 @@ Retail Sales Data Modelling Summary.*
 ## Authors
 
 Alexander Van Roijen
-(https://github.com/bogyshi)
+https://github.com/bogyshi
 
 Ashley Batchelor
-(github.com/aibatchelor22/)
+https://github.com/aibatchelor22/
 
 
 ## Acknowledgments
