@@ -30,7 +30,15 @@ totalByWeek*.csv
 Retail Sales Data Modelling Summary.*
 
 	Summary of the project.
+	
+/eda
+
+	Exploratory Data Analysis Output Graphs.
+
+/dataCleaning
  
+	Script for cleaning data for modelling.
+
 
 ## Authors
 
