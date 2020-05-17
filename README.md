@@ -1,6 +1,6 @@
-# Project Title
+# Retail Sales Data Analysis and Forecasting
 
-We analyzed retail sales data from an Australian fruit and vegetable retailer ande created models to forecast sales for 12 weeks (~3 months) into the future.  The models included total sales, and sales for the top five selling categories, based on average annual sales.  The top five categories included Tomatoes, Citrus, Apples, Potatoes, and ìOther Vegies.î  We aggregated total sales for each category (or the grand total sales) over weekly periods.
+We analyzed retail sales data from an Australian fruit and vegetable retailer ande created models to forecast sales for 12 weeks (~3 months) into the future.  The models included total sales, and sales for the top five selling categories, based on average annual sales.  The top five categories included Tomatoes, Citrus, Apples, Potatoes, and ‚ÄúOther Vegies.‚Äù  We aggregated total sales for each category (or the grand total sales) over weekly periods.
 
 
 
